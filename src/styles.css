@@ -1,0 +1,13 @@
+/* src/styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+
+#input-name{
+    width: 80%;
+    max-width: 400px; 
+}
