@@ -1,6 +1,6 @@
 window.addEventListener('DOMContentLoaded',() => {
         const cards = document.createElement("card-container") as HTMLElement
-        const btn = document.getElementById("btn") as HTMLInputElement
+        const btn = document.getElementById("btn-name") as HTMLInputElement
         const inputName = document.getElementById("input-name") as HTMLInputElement
         const myAlert = document.getElementById("myAlert") as HTMLElement
 
